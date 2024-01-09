@@ -15,6 +15,7 @@ Proyek ini bertujuan untuk memahami dan memprediksi perilaku churn pelanggan. Be
 - 📁 `Notebooks`: Folder ini berisi notebook Jupyter (.ipynb) yang digunakan dalam proyek.
   - 📄 `Projek_Data_Analyst.ipynb`: Notebook utama dengan langkah-langkah analisis dan pemodelan.
 - 📁 `Data`: Folder yang berisi data pelanggan (jika ukuran datanya memungkinkan).
+  - 📄 `Dataset pelanggan churn yang digunakan dalam proyek ini dapat diunduh dari Kaggle. Klik [di sini](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data) untuk mengunduh dataset.
 - 📄 `README.md`: Berkas ini memberikan panduan singkat untuk proyek dan cara menjalankan notebook.
 
 ## Cara Menjalankan Notebook
@@ -29,7 +30,7 @@ Hasil dari proyek ini dapat dilihat dalam notebook dan dapat digunakan untuk men
 
 ## Tautan dan Kontak
 
-- Tautan Repository: [Data Analyst Portfolio - Churn Analysis](https://github.com/nama-username/Churn-Analysis)
-- Kontak: [Email Anda] | [LinkedIn Anda] | [Portofolio Tambahan (jika ada)]
+- Tautan Repository: [Data Analyst Portfolio - Churn Analysis](https://github.com/less1x/Portfolio-Data-Analyst)
+- Kontak: [galangsuarse123@gmail.com] | [LinkedIn-Galang Rahmat Lessamanta](https://www.linkedin.com/in/galang-rahmat-lessamanta/)
 
 Terima kasih telah mengunjungi repository ini! Jangan ragu untuk berkontribusi atau menghubungi saya jika Anda memiliki pertanyaan atau umpan balik.
